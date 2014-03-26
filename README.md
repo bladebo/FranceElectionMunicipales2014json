@@ -3,6 +3,8 @@ FranceElectionMunicipales2014json
 
 Données en json des départements, villes et Urls directement du site http://elections.interieur.gouv.fr
 
+Pour chaque fichiers:
+
 -Region
 
 --Liste des premières lettres des villes existantes dans la région
