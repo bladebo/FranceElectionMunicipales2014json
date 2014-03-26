@@ -4,8 +4,8 @@ FranceElectionMunicipales2014json
 Données en json des départements, villes et Urls directement du site http://elections.interieur.gouv.fr
 
 
-[CODE]
 Exemple Format decodé en php.
+```
 ["url"]=>
     string(56) "http://elections.interieur.gouv.fr/MN2014/001/index.html"
     ["libelle"]=>
@@ -42,5 +42,4 @@ Exemple Format decodé en php.
           }
         }
       }
-      
-[/CODE]      
+```     
